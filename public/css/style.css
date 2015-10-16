@@ -6,9 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
+.brand-logo {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
+  text-transform: uppercase;
 }
 
 p {
